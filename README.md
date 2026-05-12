@@ -53,7 +53,7 @@ This utility utilizes AI models to precisely isolate the subject and remove the 
 Using the iconic **Itachi Uchiha** as a test case, the tool effectively isolates the subject from the complex background.
 
 <img width="500" height="500" alt="i" src="https://github.com/user-attachments/assets/fd5201a4-0a7d-4f9b-ae6a-5475ea5140e0" />
-
+<img src="i.jpg" width="500" height="500" alt="Background Removed Image ">
 | Processed Output (`itachi.jpg`) |
 
 | --- | --- |
