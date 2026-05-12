@@ -1,14 +1,3 @@
-<img width="3840" height="2160" alt="i" src="https://github.com/user-attachments/assets/fd5201a4-0a7d-4f9b-ae6a-5475ea5140e0" />
-```
-3.  Enter the input file path (e.g., `i.jpg`) and your desired output name (e.g., `result.png`).
-
-### Performance Example:
-Using the iconic **Itachi Uchiha** as a test case, the tool effectively isolates the subject from the complex background.
-
-| Original Input (`i.jpg`) | Processed Output (`itachi.jpg`) |
-| :---Here is the professional English version of your README. Since you are building this for your portfolio and GitHub, I’ve used the name **PixelShifter** as it sounds like a professional cybersecurity and image manipulation tool.
-
----
 
 # 🌌 PixelShifter
 A versatile Python-based toolkit designed for advanced image manipulation, automated background removal, and digital steganography. This project is part of my ongoing development in Python automation and security tools.
@@ -214,7 +203,7 @@ Using the iconic **Itachi Uchiha** as a test case, the tool effectively isolates
 
 ---
 ![Uploading i.jpg…]()
-![Uploading itachi.png…]()
+
 
 ## 📂 Project Roadmap
 *   [x] Basic Background Removal ScriptHere is the professional English version of your README. Since you are building this for your portfolio and GitHub, I’ve used the name **PixelShifter** as it sounds like a professional cybersecurity and image manipulation tool.
@@ -265,7 +254,9 @@ Using the iconic **Itachi Uchiha** as a test case, the tool effectively isolates
 
 | Original Input (`i.jpg`) | Processed Output (`itachi.jpg`) |
 | :--- | :--- |
-| ![Original](https://api.gemini.google.com/v1/files/i.jpg) | ![Processed](https://api.gemini.google.com/v1/files/itachi.jpg) |
+<img width="3840" height="2160" alt="i" src="https://github.com/user-attachments/assets/fd5201a4-0a7d-4f9b-ae6a-5475ea5140e0" />
+![Uploading itachi.png…]()
+
 
 > **Pro Tip:** Always save the output with a `.png` extension to preserve the transparency layer created by the background removal process.
 
