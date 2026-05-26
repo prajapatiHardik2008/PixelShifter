@@ -67,7 +67,7 @@ Using the iconic **Itachi Uchiha** as a test case, the tool effectively isolates
 ## 📂 Project Roadmap
 
 * [x] Basic Background Removal Script.
-* [ ] LSB Steganography Tool for secure data hiding.
+* [x] LSB Steganography Tool for secure data hiding.
 * [ ] Integration with a Flask-based web dashboard (H-24 Portal).
 * [ ] Batch processing for multiple images in a single directory.
 
